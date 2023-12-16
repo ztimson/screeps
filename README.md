@@ -3,7 +3,7 @@
   <br />
   
   <!-- Logo -->
-  <img src="https://git.zakscode.com/repo-avatars/41876d0dc5f27daccc0a80c2cc47dfcd81d7ab23fba4180548165ac84c3c201f" alt="Logo" width="200" height="200">
+  <img src="https://git.zakscode.com/repo-avatars/b1c66208864d63e448dfcb85bff5f949b7c477eac8d3f1f0e3f267677cdf34fc" alt="Logo" width="200" height="200">
 
   <!-- Title -->
   ### Screeps
